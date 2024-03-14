@@ -33,6 +33,7 @@ typedef SIZE_T              *PSIZE_T;
 typedef long                NTSTATUS;
 typedef NTSTATUS            *PNTSTATUS;
 
+
 // Define macros
 #ifndef STATUS_SUCCESS
 #define STATUS_SUCCESS ((NTSTATUS)0x00000000L)
